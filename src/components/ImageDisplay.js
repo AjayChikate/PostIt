@@ -9,7 +9,7 @@ import { IoMdClose } from "react-icons/io";
 
 
 const ImageDisplay = (props) => {
-
+    const [showPreview, setShowPreview] = useState(false);
     const image=props.image
     //console.log(image)
     if (!image?.data || !image?.contentType) {
@@ -19,7 +19,7 @@ const ImageDisplay = (props) => {
   const imgSrc = `data:${image.contentType};base64,${Buffer.from(image.data.data).toString('base64')}`   //stuff from mongodb
    
   
-  const [showPreview, setShowPreview] = useState(false);
+  
   return (
      <>
       <img
