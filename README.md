@@ -1,6 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📝 Post It – A Social Posting Web App
 
-## Getting Started
+Post It is a lightweight, modern web app built with **Next.js**, allowing users to sign up, create posts with images, like posts, and explore what others share.It's designed to be fast, elegant, and easy to extend — with built-in leaderboard rankings.
+
+---
+
+## 🚀 Features
+-📝 Full Post Creation
+Users can create posts with text, images, and real-time previews.
+-🖊️ Post Editing
+Edit your existing posts anytime — intuitive and smooth UX.
+-🔐 Secure Authentication
+Built with JWT and bcrypt for strong session security and data protection.
+-❤️ Like Functionality
+Like/unlike posts with instant visual feedback using React state hooks.
+-📸 Image Upload & Preview
+Solved tricky image handling with base64 encoding and dynamic routing in Next.js.
+-🏆 Leaderboard
+Displays top users based on activity.
+-🧠 Real-time UI Updates
+Seamless interactivity with React hooks and conditional rendering.
+-🌐 MongoDB Integration
+All data is persisted securely in a cloud-hosted MongoDB, with full CRUD support.
+
+---
+
+## 🧑‍💻 Getting Started
 
 First, run the development server:
 
