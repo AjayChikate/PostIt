@@ -8,7 +8,7 @@ Post It is a lightweight, modern web app built with **Next.js**, allowing users 
 
 -📝 **Full Post Creation**  
   Users can create posts with text, images, and real-time previews.
--🖊️ **Post Editing**  
+--🖊️ **Post Editing**  
   Edit your existing posts anytime — intuitive and smooth UX.
 -🔐 **Secure Authentication**  
   Built with JWT and bcrypt for strong session security and data protection.
