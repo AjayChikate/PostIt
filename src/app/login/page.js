@@ -68,7 +68,7 @@ const Page = () => {
               <hr className="border-gray-300" />
 
               <p className="text-center text-gray-600">
-                Don't have an account?{" "}
+                Don&apos;t have an account?{" "}
                 <Link
                   href="/signup"
                   className="text-blue-500 font-semibold hover:underline"

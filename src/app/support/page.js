@@ -9,7 +9,7 @@ const Page = () => {
       <h1 className="text-5xl font-bold text-orange-500 mb-4">Need Help?</h1>
       <p className="text-lg text-gray-600 mb-8 text-center max-w-xl">
         Found a bug or have a feature request? Check out our GitHub and raise an issue.  
-        We'd love to hear from you!
+        We would love to hear from you!
       </p>
 
       <Link

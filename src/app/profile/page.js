@@ -66,7 +66,7 @@ const Page = () => {
 
           <div className="bg-white flex flex-col items-center justify-center px-4">
             <img src="./favicon.ico" alt="User Icon" className="w-40 h-40 mb-6 rounded-full shadow-lg border-4 border-purple-400" />
-            <p className="text-xl font-semibold text-gray-700">"Posting on PostIt is like leaving notes in the universe—some echo back, some spark ideas, and some start revolutions."</p>
+            <p className="text-xl font-semibold text-gray-700">Posting on PostIt is like leaving notes in the universe—some echo back, some spark ideas, and some start revolutions.</p>
           </div>
         </section>
         <section className="bg-red-400 min-h-[100vh] flex items-center justify-center">

@@ -14,7 +14,7 @@ export default function Home() {
             Hello, This is <span className="text-purple-600">PostIT</span>! 📝
           </h1>
           <p className="text-lg text-gray-700 max-w-xl">
-            A platform for expressive minds! PostIT enables users to share thoughts, ideas, and images seamlessly. Whether you're reflecting, creating, or exploring, join our vibrant community and start posting today.
+            A platform for expressive minds! PostIT enables users to share thoughts, ideas, and images seamlessly. Whether you are reflecting, creating, or exploring, join our vibrant community and start posting today.
           </p>
 
           <div className="flex flex-wrap gap-4">
