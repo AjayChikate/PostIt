@@ -5,21 +5,22 @@ Post It is a lightweight, modern web app built with **Next.js**, allowing users 
 ---
 
 ## 🚀 Features
--📝 Full Post Creation
+
+-📝 Full Post Creation  
 Users can create posts with text, images, and real-time previews.
--🖊️ Post Editing
+-🖊️ Post Editing  
 Edit your existing posts anytime — intuitive and smooth UX.
--🔐 Secure Authentication
+-🔐 Secure Authentication  
 Built with JWT and bcrypt for strong session security and data protection.
--❤️ Like Functionality
+-❤️ Like Functionality  
 Like/unlike posts with instant visual feedback using React state hooks.
--📸 Image Upload & Preview
+-📸 Image Upload & Preview  
 Solved tricky image handling with base64 encoding and dynamic routing in Next.js.
--🏆 Leaderboard
+-🏆 Leaderboard  
 Displays top users based on activity.
--🧠 Real-time UI Updates
+-🧠 Real-time UI Updates  
 Seamless interactivity with React hooks and conditional rendering.
--🌐 MongoDB Integration
+-🌐 MongoDB Integration  
 All data is persisted securely in a cloud-hosted MongoDB, with full CRUD support.
 
 ---
