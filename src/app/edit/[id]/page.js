@@ -4,7 +4,7 @@ import Edit from '@/components/Edit'
 import { useParams } from 'next/navigation'
 
 
-const page = () => {
+const Page = () => {
   const params = useParams()
   const { id } = params
   // console.log(id,typeof(id))
@@ -16,4 +16,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

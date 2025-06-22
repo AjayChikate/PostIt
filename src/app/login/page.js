@@ -5,7 +5,7 @@ import Link from "next/link";
 import axios from "axios";
 import { FaLock } from 'react-icons/fa'
 
-const page = () => {
+const Page = () => {
 
   const [user, setuser] = useState({
     email: "",
@@ -103,4 +103,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

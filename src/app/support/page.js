@@ -3,7 +3,7 @@
 import { FaGithub } from "react-icons/fa";
 import Link from "next/link";
 
-const Support = () => {
+const Page = () => {
   return (
     <main className="min-h-screen bg-gradient-to-br from-orange-50 to-orange-200 flex flex-col items-center justify-center px-4 py-16">
       <h1 className="text-5xl font-bold text-orange-500 mb-4">Need Help?</h1>
@@ -29,4 +29,4 @@ const Support = () => {
   );
 };
 
-export default Support;
+export default Page;

@@ -7,7 +7,7 @@ import { FaGlobe, FaUser, FaHandshake, FaSearch, FaRegNewspaper } from "react-ic
 import { useState } from 'react'
 
 
-const page = () => {
+const Page = () => {
 
   const [dataa, setdataa] = useState([])
   const userDetails = async () => {
@@ -78,7 +78,7 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
 
 
 
