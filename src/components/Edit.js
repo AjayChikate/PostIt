@@ -81,7 +81,7 @@ const Edit =(props) => {
               alt="Debugger Icon"
             />
             <p className="text-lg text-gray-700 mt-4 font-semibold">
-              Let's Debug Together!
+              Post IT!
             </p>
           </div>
      
