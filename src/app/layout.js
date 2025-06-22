@@ -1,3 +1,6 @@
+export const dynamic = "force-dynamic"; // for cookies dynamics
+
+
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
