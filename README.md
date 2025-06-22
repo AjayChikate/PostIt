@@ -33,9 +33,32 @@ Post It is a lightweight, modern web app built with **Next.js**, allowing users 
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live app here: [Live Deployment](https://post-it-lac.vercel.app/)
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/AjayChikate/PostIt.git
+npm install
+npm run dev
+```
+
+
+---
+
 ## 🧑‍💻 Getting Started
 
-First, run the development server:
+First install dependencies
+
+```bash
+npm install axios jose bcryptjs mongoose react-icons 
+```
+
+Run the development server:
 
 ```bash
 npm run dev
