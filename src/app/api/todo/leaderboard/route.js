@@ -38,10 +38,10 @@ export async function GET() {
         }
         
     ]);
-    
-    return NextResponse.json({leaderboard:a},{ status: 200 });
+    return NextResponse.json({ leaderboard: a || [] }, { status: 200 });
+   
 }catch(err){
    console.log(err.message)
-   return NextResponse.json({leaderboard:{}},{ status: 200 });
+   return NextResponse.json({leaderboard:[]},{ status: 200 }); 
 }
 }
