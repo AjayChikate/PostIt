@@ -2,6 +2,23 @@
 
 Post It is a lightweight, modern web app built with **Next.js**, allowing users to sign up, create posts with images, like posts, and explore what others share.It's designed to be fast, elegant, and easy to extend — with built-in leaderboard rankings.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ef8a5e47-97a8-4a07-a603-b700dac8b98d" width="400"/>
+  <img src="https://github.com/user-attachments/assets/faa201bf-0f64-4afa-aabd-460eb61d16f1" width="400"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/88fc400e-0e57-4013-b986-d2d6c8ed4eaa" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f1f608ab-0ce7-4f6a-9e4e-146702340d92" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7e69ddd9-d576-4e4b-a972-6d4ffd17ff00" width="300"/>
+</div>
+
+
+
+
+
 ---
 
 ## 🚀 Features
